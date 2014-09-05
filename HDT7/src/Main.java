@@ -1,11 +1,9 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /**
  *
- * @author Bicimotoca
+ * @author Pablo Argueta, Carnet: 13028
+ * @author Héctor Möller, Carnet: 09002
+ * @author Brandon Mendez, Carnet: 13087
+ * 
  */
 public class Main {
 
