@@ -5,7 +5,7 @@
  * 
  * Clase Association tomada del libro Java Structures
  */
-public class Association<K,V>
+public class Association<K extends Comparable, V> implements Comparable<Association<K, V>>
 {
     /**
      * The immutable key.  An arbitrary object.
@@ -121,4 +121,11 @@ public class Association<K,V>
         s.append("<Association: "+getKey()+"="+getValue()+">");
         return s.toString();
     }
+
+    @Override
+    public int compareTo(Association o) {
+        return theKey.compareTo(o.theKey);
+    }
+
+
 }
