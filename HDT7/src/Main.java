@@ -41,7 +41,7 @@ public class Main {
         }
         BinarySearchTree<Association<String,String>> diccionario = new BinarySearchTree<>();       
         
-        for (int j=0;j<palabrasIngles.length - 1;j++){
+        for (int j=0;j<palabrasIngles.length;j++){
             Association<String,String> nuevaAsoc;
             nuevaAsoc = new Association<String,String>(palabrasIngles[j],palabrasEsp[j]);
             diccionario.add(nuevaAsoc);
