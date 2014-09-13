@@ -1,6 +1,10 @@
-// A comparator that implements the natural ordering.
-// (c) 2001 duane a. bailey
-
+/**
+ * @author Pablo Argueta, Carnet: 13028
+ * @author Héctor Möller, Carnet: 09002
+ * @author Brandon Mendez, Carnet: 13087
+ * 
+ * Clase NaturalComparator creada por Duane A. Bailey
+ */
 
 import java.util.Comparator;
 

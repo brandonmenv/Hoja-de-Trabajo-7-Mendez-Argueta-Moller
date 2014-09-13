@@ -1,6 +1,10 @@
-// An implementation of nodes for use in binary trees.
-// (c) 1998, 2001 duane a. bailey
-
+/**
+ * @author Pablo Argueta, Carnet: 13028
+ * @author Héctor Möller, Carnet: 09002
+ * @author Brandon Mendez, Carnet: 13087
+ * 
+ * Clase BinaryTree creada por Duane A. Bailey
+ */
 import java.lang.Math;
 
 /**

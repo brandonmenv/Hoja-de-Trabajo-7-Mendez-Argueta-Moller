@@ -1,5 +1,10 @@
-// This is an implementation of binary search trees.
-// (c) 1998, 2001 duane a. bailey
+/**
+ * @author Pablo Argueta, Carnet: 13028
+ * @author Héctor Möller, Carnet: 09002
+ * @author Brandon Mendez, Carnet: 13087
+ * 
+ * Clase BinarySearchTree creada por Duane A. Bailey
+ */
 
 import java.util.Comparator;
 
